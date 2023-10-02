@@ -419,3 +419,11 @@ header {
 .footer__pic__boxx {
     padding-top: 40px;
 }
+
+
+.path__hover:hover {
+    fill: #FDD6BA;
+}
+
+/* about us */
+
